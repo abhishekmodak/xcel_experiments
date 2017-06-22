@@ -1,0 +1,5 @@
+XlsxWriter==0.8.6
+python-debian==0.1.21-nmu2ubuntu2
+python-distutils-extra==2.38
+virtualenv==1.11.4
+xlrd==0.9.4
